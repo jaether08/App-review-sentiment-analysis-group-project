@@ -1,28 +1,11 @@
 **Table of Contents**
-
-[1. Overview [2](#overview)](#overview)
-
-[2. Data Collection and Processing (Group)
-[4](#data-collection-and-processing-group)](#data-collection-and-processing-group)
-
-[Why this set of apps was selected
-[4](#why-this-set-of-apps-was-selected)](#why-this-set-of-apps-was-selected)
-
-[3. Develop Sentiment Analysis Models
-[6](#develop-sentiment-analysis-models)](#develop-sentiment-analysis-models)
-
-[4. Model Evaluation Using Testing Data
-[15](#model-evaluation-using-testing-data)](#model-evaluation-using-testing-data)
-
-[5. Make Prediction with Best Model
-[18](#make-prediction-with-best-model)](#make-prediction-with-best-model)
-
-[6. Summary + Improvements
-[21](#summary-improvements)](#summary-improvements)
-
-[7. Gen-AI Use Declaration
-[23](#gen-ai-use-declaration)](#gen-ai-use-declaration)
-
+1. Overview
+2. Data Collection and Processing (Group)
+3. Develop Sentiment Analysis Models
+4. Model Evaluation Using Testing Data
+5. Make Prediction with Best Model
+6. Summary + Improvements
+---
 # 1. Overview
 
 (Jaydon)
@@ -1118,48 +1101,3 @@ explicitly said and what it means. Addressing this gap through more
 diverse and thoughtfully labelled training data, alongside more
 context-aware architectures would be the clearing path moving forward
 for improving the model’s real-world reliability.
-
-# 7. Gen-AI Use Declaration
-
-**<span class="smallcaps">Gen-AI Use Declaration</span>**
-
-Students must declare on submission that they used Gen-AI in accordance
-with the assessment’s restrictions (if any) and that, if Gen-AI use is
-restricted, they will produce evidence of such use upon request.
-
-**<span class="smallcaps">Declaration by Students of GENERATIVE AI
-USE</span>**
-
-Please check either ‘Yes’ or ‘No’ to indicate whether you or your team
-have used Gen-AI for this assignment:
-
-<table style="width:96%;">
-<colgroup>
-<col style="width: 6%" />
-<col style="width: 90%" />
-</colgroup>
-<thead>
-<tr>
-<th>☒</th>
-<th><p>Yes, I/we declare and acknowledge that<br />
-<br />
-I/we have adopted, verified and adapted Generative Artificial
-Intelligence (Gen-AI) output for this assessment in accordance with
-restrictions imposed for this assessment.</p>
-<p>(Where Gen-AI is restricted) I/We have and will produce upon request
-evidence of how I/we used Gen-AI. This includes for example:</p>
-<ul>
-<li><p>Drafts of work done before &amp; during use of the Gen-AI
-tools</p></li>
-<li><p>History of use of Gen-AI for this assessment on any device
-including phones, tablets and computers shared with others.</p></li>
-</ul></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>☐</td>
-<td>No, I/we have not used Gen-AI.</td>
-</tr>
-</tbody>
-</table>
